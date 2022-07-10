@@ -1,4 +1,4 @@
-# Weight-initializations-and-dropout-techniqueto-regularize-the-network
+# Weight initializations and dropout-technique to regularize the network
 
 weight initializations: 
 
